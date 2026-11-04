@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! I'm Yusuf Izzat 😼
+
+![yusuf izzat](./img/yu.jpeg)
+
+Exploring world of technology, one command at a time. Currently learning Linux, networking, and cloud computing while documenting every step of my journey.
 
 <!--
 **yusufizzat32/yusufizzat32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 🌱 Currently learning
+- 🐧 Linux & Bash
+- 🌐 Computer Networking
+- ☁️ Cloud Computing
+- 🐙 Git & GitHub
+
+#### 🎯 My Learning Journey
+
+I believe the best way to learn technology is by actually using it.
+
+Currently, I'm focusing on mastering the fundamentals before moving into more advanced cloud technologies.
+
+#### My kata-kata and Reminder:
+
+"君子求诸己，小人求诸人"
