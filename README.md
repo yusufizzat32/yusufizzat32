@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 🌱 Currently learning
+#### Currently learning 🌾
 - 🐧 Linux & Bash
 - 🌐 Computer Networking
 - ☁️ Cloud Computing
 - 🐙 Git & GitHub
 
-#### 🎯 My Learning Journey
+#### My Learning Journey 🛣️
 
 I believe the best way to learn technology is by actually using it.
 
