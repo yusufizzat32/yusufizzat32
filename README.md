@@ -1,7 +1,5 @@
 ## Hi! I'm Yusuf Izzat 😼
 
-![yusuf izzat](./img/yu.jpeg)
-
 Figuring out tech one command at a time. Right now I’m diving into Linux, networking, and cloud computing, and documenting every step of my journey.
 
 <!--
