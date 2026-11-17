@@ -1,4 +1,4 @@
-## Hi! I'm Yusuf Izzat 😼
+## Hi! I'm Yusuf Izzat
 
 Right now I’m diving into Linux, networking, and cloud computing, and documenting every step of my journey.
 
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Currently learning 🌾
-- 🐧 Linux & Bash
-- 🌐 Computer Networking
-- ☁️ Cloud Computing
-- 🐙 Git & GitHub
+- Linux & Bash
+- Computer Networking
+- Cloud Computing
+- Git & GitHub
 
-#### My Learning Journey 🛣️
+#### My Learning Journey
 
 I believe the best way to learn technology is by actually using it.
 
