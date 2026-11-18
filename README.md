@@ -16,16 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Currently learning 🌾
+#### Currently learning 
 - Linux & Bash
 - Computer Networking
 - Git & GitHub
 
-#### My Learning Journey
 
-I believe the best way to learn technology is by actually using it.
-
-Currently, I'm focusing on mastering the fundamentals before moving into more advanced cloud technologies.
+Now i'm focusing on mastering the fundamentals before moving into more advanced cloud technologies.
 
 #### My kata-kata and Reminder:
 
