@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 #### Currently learning 🌾
 - Linux & Bash
 - Computer Networking
-- Cloud Computing
 - Git & GitHub
 
 #### My Learning Journey
