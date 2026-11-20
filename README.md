@@ -1,6 +1,4 @@
-## Hi! I'm Yusuf Izzat
-
-Right now I’m diving into Linux, networking, and cloud computing, and documenting every step of my journey
+Hi! I'm Yusuf Izzat. Right now I’m diving into Linux, networking, and cloud computing, and documenting every step of my journey
 
 <!--
 **yusufizzat32/yusufizzat32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
