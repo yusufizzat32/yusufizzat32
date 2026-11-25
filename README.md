@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Currently learning 
-- Linux & Bash
-- Computer Networking
-- Git & GitHub
+#### Currently learning Linux & Bash, Computer Networking, Git & GitHub
 
 
 Now i'm focusing on mastering the fundamentals before moving into more advanced cloud technologies
